@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smsriharsha/testdeploy.git"
+    "url": "git+https://github.com/panithavya/panithavya.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://smsriharsha.github.io/smsriharsha",
+  "homepage": "https://panithavya.github.io/panithavya",
   "bugs": {
-    "url": "https://github.com/smsriharsha/testdeploy/issues"
+    "url": "https://github.com/panithavya/panithavya/issues"
   },  
   "dependencies": {
     "gh-pages": "^3.1.0"
