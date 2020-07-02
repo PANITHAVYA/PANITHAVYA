@@ -1,0 +1,23 @@
+{
+  "name": "testdeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smsriharsha/testdeploy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://smsriharsha.github.io/smsriharsha",
+  "bugs": {
+    "url": "https://github.com/smsriharsha/testdeploy/issues"
+  },  
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
